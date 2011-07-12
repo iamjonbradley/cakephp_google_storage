@@ -1,0 +1,7 @@
+<?php
+
+$config['GoogleStorage.Debug'] 				= false; 
+$config['GoogleStorage.Server']				= 'commondatastorage.googleapis.com';
+$config['GoogleStorage.Bucket'] 			= ''; 											// set the name of ur bucket here
+$config['GoogleStorage.AccessKey'] 			= ''; 											// set your legacy access key here
+$config['GoogleStorage.AccessKeySecret'] 	= '';											// set your legacy access key secret here
