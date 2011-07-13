@@ -17,7 +17,7 @@ h2. Get The Source
 
 _[Manual]_
 
-# Download this: git@github.com:jonbradley/Google-Storage-for-CakePHP.git/zipball/master
+# Download this: git@github.com:jonbradley/google_storage.git/zipball/master
 # Unzip that download.
 # Copy the resulting folder to app/plugins
 # Rename the folder you just copied to @google_storage_
@@ -25,7 +25,7 @@ _[Manual]_
 _[GIT Clone]_
 
 * In your plugin directory type
- <pre><code>git clone git@github.com:jonbradley/Google-Storage-for-CakePHP.git google_storage</code></pre>
+ <pre><code>git clone git@github.com:jonbradley/google_storage.git google_storage</code></pre>
 
 
 h2. Installation
